@@ -1,5 +1,5 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-### Date: 27/02/24
+### Date: 17/02/24
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
